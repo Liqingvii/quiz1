@@ -9,3 +9,4 @@ Activate the virtual environment and install the libraries - wordcloud and image
 Make sure your GitHub repo DOES NOT contain your virtual environment.
 
 Make sure your Github repo DOES contain your .gitignore file.
+ 
