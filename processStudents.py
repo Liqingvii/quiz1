@@ -25,8 +25,7 @@ not required to use them but it is provided to help you work
 through the logic of the problem.
 
 
-
-
+'''
 
 import csv
 
@@ -78,7 +77,7 @@ print(student_dict['Luke Brazzi'])
 outfile.close()
 infile.close()
 
-'''
+
 
 
 #display the wordcloud
